@@ -5,6 +5,7 @@ public class Item {
     private String name;
     private String sku;
 
+    // Required for managed objects
     public Item() {
     }
 
